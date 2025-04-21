@@ -1,2 +1,2 @@
-#elo-stats
-##MVP for a NBA stats application
+# elo-stats
+## MVP for a NBA stats application
