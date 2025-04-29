@@ -1,8 +1,6 @@
-// === React Frontend (create-react-app structure) ===
-// File: src/App.js
 import React, { useState } from 'react';
 import axios from 'axios';
-import './App.css';
+import './components/App.css';
 
 function App() {
   const [playerName, setPlayerName] = useState('');
